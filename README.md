@@ -1,5 +1,6 @@
 # NABU Library Front-End
 
+![icon-namu](https://github.com/hayderzaeim/NABU/blob/main/icon-namu.png)
 
 ## Introduction
 NABU Library is a powerful tool that aims to simplify the process of writing code for creating HTML elements in a manner similar to JSON, while also facilitating the organization and maintainability of web development projects. It supports both JavaScript and PHP, and has the potential to be extended to other programming languages, making it a versatile solution for web developers.
